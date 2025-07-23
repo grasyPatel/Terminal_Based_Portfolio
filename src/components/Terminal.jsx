@@ -115,7 +115,7 @@ contact: `📧 Get In Touch:
 Email:    gracepatel91@gmail.com
 GitHub:   https://github.com/grasyPatel
 LinkedIn: https://www.linkedin.com/in/grace-patel-977216253/
-Portfolio: https://graceintro.netlify.app/
+Portfolio: https://terminal-portfolio-i1rl.onrender.com
 Location: Indore, India (Available ,Remote/Onsite)
 Status:   Open to internships & full-time opportunities
 

@@ -19,7 +19,7 @@ export default function App() {
 
   if (isLoading) {
     return (
-      <div className="h-screen bg-gradient-to-r from-black via-gray-900 to-black text-green-400 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-r from-black via-gray-900 to-black text-green-400 flex items-center justify-center">
         <div className="text-center font-mono">
           <div className="text-2xl mb-4">
             <span className="animate-pulse">●</span> SYSTEM INITIALIZING
@@ -45,11 +45,11 @@ export default function App() {
     <div className="h-screen bg-gradient-to-r from-black via-gray-900 to-black text-green-400 flex items-center justify-center p-4 md:p-6">
       {/* Background Grid Effect */}
       <div className="absolute inset-0 opacity-10 pointer-events-none">
-        <div className="grid-bg w-full h-full"></div>
+        <div className="grid-bg w-full h-screen"></div>
       </div>
 
       {/* Main Container */}
-      <div className="relative grid grid-cols-1 lg:grid-cols-2 gap-0 w-full max-w-7xl h-full max-h-[900px] items-stretch rounded-xl overflow-hidden shadow-2xl border border-green-700/30">
+      <div className="relative grid grid-cols-1 lg:grid-cols-2 gap-0 w-full max-w-7xl h-screen max-h-[700px] items-stretch rounded-xl overflow-hidden shadow-2xl border border-green-700/30">
         
         {/* Terminal Section */}
         <div className="bg-black/90 border-r border-green-700/50 p-4 md:p-6 relative">
