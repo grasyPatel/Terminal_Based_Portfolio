@@ -4,6 +4,9 @@ Welcome to my **interactive terminal-style portfolio**!
 A web-based command-line interface where you can type commands like `help`, `projects`, `experience`, `contact`, and more — just like a real terminal!
 
 > 🚀 Built using modern frontend tools to provide a unique developer experience.
+---
+ [![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=for-the-badge)](https://terminal-portfolio-i1rl.onrender.com/)
+
 
 ---
 
